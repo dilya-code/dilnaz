@@ -21,4 +21,26 @@
     {"id": 10,
       "title": "Tennis"}
 ]
+"Work": [
+    {"id": 11,
+      "title": "Work"},
+    {"id": 12,
+      "title": "Holidays" },
+    {"id": 13,
+      "title": "School"},
+    {"id": 14,
+      "title": "University"},
+    {"id": 15,
+      "title": "Vacation"},
+    {"id": 16,
+      "title": "Salary"},
+    { "id": 17,
+      "title": "Retirement"},
+    {"id": 18,
+      "title": "House"},
+    {"id": 19,
+      "title": "Employment"},
+    {"id": 20,
+      "title": "Fired"}
+    ]
 }
