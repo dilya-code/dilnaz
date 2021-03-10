@@ -1,0 +1,24 @@
+{
+  "Sport": [
+    {"id": 1,
+      "title": "Football"},
+    {"id": 2,
+      "title": "Basketball"},
+    {"id": 3,
+       "title": "Voleyball"},
+    {"id": 4,
+      "title": "Gandball"},
+    {"id": 5,
+      "title": "Athletics"},
+    {"id": 6,
+      "title": "Swimming"},
+    {"id": 7,
+      "title": "Dance"},
+    {"id": 8,
+      "title": "UFC"},
+    {"id": 9,
+      "title": "Golf"},
+    {"id": 10,
+      "title": "Tennis"}
+]
+}
