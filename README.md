@@ -1,2 +1,0 @@
-# dilnaz
-fake js
